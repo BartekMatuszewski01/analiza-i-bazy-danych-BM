@@ -1,1 +1,2 @@
-More time took finding pandas function than cleaning this.
+More time took finding pandas function than cleaning this. 
+github ucioł wyniki
